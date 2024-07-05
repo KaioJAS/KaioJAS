@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou o @KaioJAS
 - 👀 Estou interessado em aprender e crescer como profissional da area da tecnologia da informação
-- 🌱 Atualmente, sou desenvolvedor fullstak junior
-- 🎓 Tecnologias em destaque: HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind, MySQL, VueJS, codeigniter
-- 🖋️ Tenho interesse em: React, Fluter
+- 🌱 Atualmente, sou desenvolvedor fullstak pleno
+- 🎓 Tecnologias em destaque: JavaScript, PHP, Bootstrap, Tailwind, MySQL, VueJS, codeigniter, React
+- 🖋️ Tenho interesse em: Fluter, Golang
 - 💞️ Espero colaborar com ideias que possam ajudar toda a comunidade de uma forma simples e didática.
 - 📫 E-mail kaiojas1@gmail.com
 
